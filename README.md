@@ -8,20 +8,7 @@ Built with **Python** and **PyQt5**.
 
 ---
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Security Model & Uniqueness](#security-model--uniqueness)
-- [Entropy & Math Details](#entropy--math-details)
-- [User Interface & Workflow](#user-interface--workflow)
-- [Configuration Options](#configuration-options)
-- [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [Code Structure](#code-structure)
-- [Data Storage & Privacy](#data-storage--privacy)
-- [Limitations & Notes](#limitations--notes)
-- [FAQ](#faq)
 - [License](#license)
 
 ---
