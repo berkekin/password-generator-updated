@@ -9,8 +9,6 @@ Built with **Python** and **PyQt5**.
 ---
 
 
-- [License](#license)
-
 ---
 
 ## Overview
